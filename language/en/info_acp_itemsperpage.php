@@ -3,7 +3,7 @@
 *
 * @package Items per Page Extension
 * @copyright (c) 2014 david63
-* * @license GNU General Public License, version 2 (GPL-2.0)
+* @license GNU General Public License, version 2 (GPL-2.0)
 *
 */
 
